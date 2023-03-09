@@ -10,6 +10,7 @@ func main() {
 
 	r := gin.Default()
 	fmt.Pringln("master test")
+	fmt.Pringln("hot-fix test")
 	r = CollectRoute(r)
 	panic(r.Run())
 }
