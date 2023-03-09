@@ -10,8 +10,7 @@ func main() {
 	_ = common.InitDb()
 
 	r := gin.Default()
-	fmt.Println("master test")
-	fmt.Println("hot-fix test")
+	fmt.Println("master 修改")
 	r = CollectRoute(r)
 	panic(r.Run())
 }
