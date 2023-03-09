@@ -9,7 +9,7 @@ func main() {
 	_ = common.InitDb()
 
 	r := gin.Default()
-	fmt.Pringln("hello")
+	fmt.Pringln("master test")
 	r = CollectRoute(r)
 	panic(r.Run())
 }
