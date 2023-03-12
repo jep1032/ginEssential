@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/归档 2/mz-course-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/归档 2/mz-course-client-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/归档/gc-admin-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/归档/go-service" vcs="Git" />
   </component>
 </project>
